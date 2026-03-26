@@ -18,8 +18,7 @@ The Blooming Online Magazine Website
 - ✅ External links
 - ✅ Responsive design
 
- Live Website:
-https://mamoketemaseela115-tech.github.io/magazine/
+ Live Website:https://mamoketemaseela115-tech.github.io/MAGA/
 
  Author:
 Mamokete Maseela
